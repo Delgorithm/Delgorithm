@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**Delgorithm/Delgorithm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello & welcome to my GitHub !
 
-Here are some ideas to get you started:
+My name is Delgorithm, a rookie in the world of development web.
+Here you will find some of my work (mainly mini-project to learn how to code)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In fact, I'm actually learning (self-learning) how to be a front-web developper.
+
+  - HTML 
+  - CSS
+  - JavaScript
+
+I hope you will find some of my work enough interesting to send me some advices.
+
+See you !
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Delgorithm)](https://github.com/anuraghazra/github-readme-stats)
