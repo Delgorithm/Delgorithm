@@ -8,10 +8,10 @@ Here you will find some of my work (mainly mini-projects).
 In fact, I'm actually learning (self-learning) how to be a front-web developper through YouTube, Frontend Mentors, Codewars, Twitter, projects...
 
 **Experiences :**
-Less than 1 year : Junior
+- Less than 1 year : Junior
 
 **Interested in:**
-Front-end
+- Front-end
 
 **Currently learning:**
 - HTML
