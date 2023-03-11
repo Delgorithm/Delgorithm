@@ -1,4 +1,4 @@
-### Hi there 👋, Hello & welcome to my GitHub !
+### Hi there 👋 and welcome to my GitHub !
 ![](https://i.pinimg.com/564x/0d/c3/05/0dc305d8b58c437f0f086410c3d8269d.jpg)
 
 My name is Delgorithm, a rookie in the world of development web. 
