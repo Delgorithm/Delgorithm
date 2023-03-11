@@ -23,7 +23,7 @@ I hope you will find some of my work enough interesting to send me some advices.
 
 See you !
 
-- 🔭 I’m currently working on a E-commerce website (HTML/CSS/JS) 
+- 🔭 I’m currently working on a E-commerce website (HTML/CSS/JS) (framework : React) 
 - 🌱 I’m currently learning JavaScript 
 - 🤔 I’m looking for help with anything. I'm here to learn, so don't hesitate to advice me! 
 - 📫 How to reach me: Twitter / GitHub 
