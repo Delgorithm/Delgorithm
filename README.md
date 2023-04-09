@@ -2,7 +2,7 @@
 
 Here you will find some of my work (mainly mini-projects).
 
-In fact, I'm actually self-learning how to be a front-web developper through YouTube, Frontend Mentors, FreeCodeCamp, Codewars, Twitter, projects...
+In fact, I'm currently self-learning how to be a front-web developper through YouTube, Frontend Mentors, FreeCodeCamp, Codewars, Twitter, projects...
 
 ![](https://github-readme-stats.vercel.app/api?username=Delgorithm&theme=slateorange&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Delgorithm&theme=slateorange&hide_border=false)<br/>
