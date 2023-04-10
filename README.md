@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Delgorithm, a junior in the world of development web. 
+### Hi there 👋 My name is Delgorithm, a junior in the world of development web.
 
 Here you will find some of my work (mainly mini-projects).
 
