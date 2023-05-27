@@ -2,7 +2,7 @@
 
 Here you will find some of my work (mainly mini-projects).
 
-In fact, I'm currently self-learning how to be a front-web developper through YouTube, Frontend Mentors, FreeCodeCamp, Codewars, Twitter, projects...
+In fact, I'm currently self-learning how to be a front-web developer through YouTube, Frontend Mentors, FreeCodeCamp, Codewars, Twitter, projects...
 
 ![](https://github-readme-stats.vercel.app/api?username=Delgorithm&theme=slateorange&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Delgorithm&theme=slateorange&hide_border=false)<br/>
@@ -15,10 +15,10 @@ In fact, I'm currently self-learning how to be a front-web developper through Yo
 - Junior : Less than a year
 ---
 ## Interest
-- 🔭 I’m currently working on a E-commerce website (HTML/CSS/JS) (framework : React) 
-- 🌱 I’m currently learning JavaScript 
-- 🤔 I’m looking for help with anything. I'm here to learn, so don't hesitate to advice me! 
-- 📫 How to reach me: Twitter / GitHub 
+- I’m currently working on a E-commerce website (HTML/CSS/JS)
+- I’m currently learning JavaScript 
+- I’m looking for help with anything. I'm here to learn, so don't hesitate to advice me! 
+- How to reach me: Twitter / GitHub 
 ---
 I hope you will find some of my work enough interesting to send me some advices.
 
