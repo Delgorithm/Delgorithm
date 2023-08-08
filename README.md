@@ -25,7 +25,7 @@
 
 ----------
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=delgorithm&show_icons=true&locale=en&layout=compact" alt="delgorithm" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=delgorithm&show_icons=true&locale=en&layout=compact" alt="delgorithm" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=delgorithm&show_icons=true&locale=en" alt="delgorithm" /></p>
 
