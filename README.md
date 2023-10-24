@@ -9,7 +9,7 @@
 
 - 🎯 I’m looking for help with **anything you judge important to let me know.**
 
-- 📨 How to reach me : **delgorithm@gmail.com**
+- 📨 How to reach me : **adrien.douville@protonmail.com**
 
 ----------
 
