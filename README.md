@@ -1,10 +1,3 @@
-<h1 align="center">Delgorithm</h1>
+[<img align="left" width="390" alt="Metrics" src="https://raw.githubusercontent.com/Delgorithm/Delgorithm/main/github-metrics.svg">](#)
 
-<p align="center">
-  <img src="./github-metrics.svg" alt="Metrics" width="90%" />
-</p>
-
-<p align="center">
-  <img src="./assets/pprofile.png" alt="Profil picture" width="300" />
-</p>
-
+[<img align="right" width="390" alt="Profile Picture" src="https://raw.githubusercontent.com/Delgorithm/Delgorithm/main/assets/pprofile.png">](#)
